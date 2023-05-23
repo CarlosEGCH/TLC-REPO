@@ -1,0 +1,17 @@
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.AssemblyInfoInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.AssemblyInfo.cs
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\ConsoleApp1ANTLR.exe
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\ConsoleApp1ANTLR.deps.json
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\ConsoleApp1ANTLR.runtimeconfig.json
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\ConsoleApp1ANTLR.dll
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\ConsoleApp1ANTLR.pdb
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.csproj.CopyComplete
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.dll
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\refint\ConsoleApp1ANTLR.dll
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.pdb
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ConsoleApp1ANTLR.genruntimeconfig.cache
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\obj\Debug\net7.0\ref\ConsoleApp1ANTLR.dll
+C:\Users\Carlo\OneDrive\Documentos\TLC\ANTLR\Projeto\ConsoleApp1ANTLR\bin\Debug\net7.0\Antlr4.Runtime.Standard.dll

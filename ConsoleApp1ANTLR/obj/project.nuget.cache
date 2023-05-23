@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QM2mwb3FrJ9xQxFozpl7ME+DRc85OHacPGHdeCDh5aqgZRAknJx2VDpFLjKkAQZNvvFPH9rylDpTrFhIMhq/nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlo\\OneDrive\\Documentos\\TLC\\ANTLR\\Projeto\\ConsoleApp1ANTLR\\ConsoleApp1ANTLR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlo\\.nuget\\packages\\antlr4.runtime.standard\\4.12.0\\antlr4.runtime.standard.4.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
